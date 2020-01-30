@@ -1,2 +1,2 @@
 # Typing Speed Game
-Criando um jogo de digitação em C#
+Criando um jogo de digitação em C#.
